@@ -1,0 +1,19 @@
+{
+    "name": "xtompie/aspect",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xtompie\\Aspect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomasz Pielczyk",
+            "email": "tomasz.pielczyk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
